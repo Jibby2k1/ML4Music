@@ -1,7 +1,7 @@
-# ML4Music
-
+<H1> ML4Music </H1>
+<hr/>
 <br/>
-## Stage 1: Filter Investigation
+<H2> # Stage 1: Filter Investigation </H2>
 <hr/>
 <br/>
 
